@@ -1,7 +1,7 @@
 # NarvarAssignment
 
 # Employee Service
-This service consists of REST API to perform employee specific operations as per the assignment and covers code only for server side. Does have code for UI. The code doesn't include test cases of any sort as the assignment doesn't mention for Junits. The restful API's have been tested on swagger UI locally.
+This service consists of REST API to perform employee specific operations as per the assignment and covers code only for server side. Doesnot have code for UI. The code doesn't include test cases of any sort as the assignment doesn't mention for Junits. The restful API's have been tested on swagger UI locally.
 
 The technologies used in this application:
 
@@ -17,7 +17,7 @@ Postgres configuration is as follows , Change the settings as required in applic
 spring.datasource.url=jdbc:postgresql://localhost:5432/employeedata
 spring.datasource.username=postgres
 spring.datasource.password=postgres
-* SERVER_PORT=8181 ( default 8080 )
+* SERVER_PORT=8181
 
-Swagger URL
+Swagger URL for testing API's.
 http://localhost:8181/swagger-ui.html
