@@ -1,4 +1,3 @@
-# NarvarAssignment
 
 # Employee Service
 This service consists of REST API to perform employee specific operations as per the assignment and covers code only for server side. Doesnot have code for UI. The code doesn't include test cases of any sort as the assignment doesn't mention for Junits. The restful API's have been tested on swagger UI locally.
